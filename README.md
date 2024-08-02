@@ -1,4 +1,4 @@
-# ronalghosh
+# Hi, Ronal here!
 # 💫 About Me:
 🔭 Currently building Imgstockn9 & Priscale<br>🎓 Interested in open source contributions<br>💻 Learning the ropes of Python, DS & ML.<br>🙋‍♂️ Love to chat about ML & AI
 
