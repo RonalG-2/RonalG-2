@@ -1,6 +1,6 @@
 # Hi, Ronal here!
 # 💫 Behind the Scenes :)
-🔭 Currently building Imgstockn9 & Priscale<br>🎓 Interested in open source contributions<br>💻 Learning the ropes of Python, DS & ML.<br>🙋‍♂️ Love to chat about ML & AI
+🔭 Currently building Snaapify & Orblinn<br>🎓 Interested in open source contributions<br>💻 Learning the ropes of Python, DS & ML.<br>🙋‍♂️ Love to chat about ML & AI
 
 
 ## 🌐 Socials:
